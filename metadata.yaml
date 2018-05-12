@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '3139'
     url: http://www.gutenberg.org/2009/agents/3139
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14657#Philo-Jud-us-of-Alexandria
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2005-01-10'
 gutenberg_type: Text
